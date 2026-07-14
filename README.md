@@ -1,50 +1,118 @@
-# Welcome to your Expo app 👋
+# AI Interviewer
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+AI Interviewer is an AI-powered interview preparation platform that enables users to practice technical and behavioral interviews through interactive conversations. The platform simulates real interview scenarios, evaluates responses using Large Language Models (LLMs), and provides feedback to help users improve their interview skills.
 
-## Get started
+## Features
 
-1. Install dependencies
+* AI-generated interview questions
+* Technical and behavioral interview modes
+* Real-time conversational experience
+* AI-based response evaluation
+* Interview history and session tracking
+* Secure user authentication
+* Responsive interface for desktop and mobile
 
-   ```bash
-   npm install
-   ```
+## Tech Stack
 
-2. Start the app
+### Frontend
 
-   ```bash
-   npx expo start
-   ```
+* React
+* TypeScript
+* Expo
+* React Native
+* Tailwind CSS (NativeWind)
 
-In the output, you'll find options to open the app in a
+### Backend & Services
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* Supabase
+* PostgreSQL
+* REST APIs
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### AI
 
-## Get a fresh project
+* OpenAI API
+* Prompt engineering
+* AI-assisted interview evaluation
 
-When you're ready, run:
+## Project Structure
 
-```bash
-npm run reset-project
+```text
+.
+├── app/
+├── assets/
+├── components/
+├── context/
+├── utils/
+├── package.json
+├── app.json
+└── README.md
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Getting Started
 
-## Learn more
+### Prerequisites
 
-To learn more about developing your project with Expo, look at the following resources:
+* Node.js (v18 or later)
+* npm
+* Expo CLI (optional)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Installation
 
-## Join the community
+Clone the repository:
 
-Join our community of developers creating universal apps.
+```bash
+git clone https://github.com/zabi30/ai-interviewer.git
+```
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Navigate to the project directory:
+
+```bash
+cd ai-interviewer
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Or run the project with Expo:
+
+```bash
+npx expo start
+```
+
+## Future Improvements
+
+* Voice-based interviews
+* Resume-based interview generation
+* Company-specific interview modes
+* Detailed performance analytics
+* Coding interview support
+* Multi-language support
+
+## Contributing
+
+Contributions are welcome. If you'd like to improve the project:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+**Zabi Ullah**
+
+GitHub: https://github.com/zabi30
