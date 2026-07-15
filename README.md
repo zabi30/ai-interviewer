@@ -2,6 +2,11 @@
 
 AI Interviewer is an AI-powered interview preparation platform that enables users to practice technical and behavioral interviews through interactive conversations. The platform simulates real interview scenarios, evaluates responses using Large Language Models (LLMs), and provides feedback to help users improve their interview skills.
 
+Watch a quick walkthrough of Ai-Interviewer in action:
+
+[ Click here to view the demo](https://drive.google.com/file/d/1-nNk87JHi7WSR_-CBIlcFej2Q5VZHsTc/view?usp=drive_link)
+
+
 ## Features
 
 * AI-generated interview questions
