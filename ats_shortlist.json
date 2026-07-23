@@ -1,0 +1,14 @@
+{
+  "jobTitle": "Node Developer",
+  "deadline": "2026-08-30",
+  "passThreshold": 7.5,
+  "duration": 15,
+  "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+  "candidates": [
+    {
+      "name": "Zabee Ullah",
+      "email": "zabigujjar9900@gmail.com",
+      "resumeSummary": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs."
+    }
+  ]
+}
