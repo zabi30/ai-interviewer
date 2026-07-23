@@ -1,0 +1,121 @@
+{
+  "BATCH-TEST-88": {
+    "batchId": "BATCH-TEST-88",
+    "jobTitle": "App Developer",
+    "duration": 15,
+    "deadline": "2026-08-15",
+    "passThreshold": 7.2,
+    "limit": 2,
+    "candidatesCount": 2,
+    "candidates": [
+      "INT-ALICE",
+      "INT-BOB"
+    ],
+    "createdAt": "2026-07-19T17:39:18.118Z",
+    "updatedAt": "2026-07-19T17:39:18.118Z"
+  },
+  "BATCH-PV7E1": {
+    "batchId": "BATCH-PV7E1",
+    "jobTitle": "web dev",
+    "duration": 15,
+    "deadline": "2026-09-09",
+    "passThreshold": 7,
+    "limit": 5,
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-4430N"
+    ],
+    "createdAt": "2026-07-19T18:00:13.944Z",
+    "updatedAt": "2026-07-19T18:00:13.944Z"
+  },
+  "BATCH-ME9SC": {
+    "batchId": "BATCH-ME9SC",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 1,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-LSG1X"
+    ],
+    "createdAt": "2026-07-19T18:09:07.433Z",
+    "updatedAt": "2026-07-19T18:09:07.433Z"
+  },
+  "BATCH-VN6K4": {
+    "batchId": "BATCH-VN6K4",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 1,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-FDMK3"
+    ],
+    "createdAt": "2026-07-19T18:11:10.229Z",
+    "updatedAt": "2026-07-19T18:11:10.229Z"
+  },
+  "BATCH-FH8U1": {
+    "batchId": "BATCH-FH8U1",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 1,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-7WFE9"
+    ],
+    "createdAt": "2026-07-19T18:11:45.012Z",
+    "updatedAt": "2026-07-19T18:11:45.012Z"
+  },
+  "BATCH-IQ868": {
+    "batchId": "BATCH-IQ868",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 5,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-BDQLT"
+    ],
+    "createdAt": "2026-07-19T20:28:34.864Z",
+    "updatedAt": "2026-07-19T20:28:34.864Z"
+  },
+  "BATCH-0PR4W": {
+    "batchId": "BATCH-0PR4W",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 5,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-F0M50"
+    ],
+    "createdAt": "2026-07-19T20:58:11.538Z",
+    "updatedAt": "2026-07-19T20:58:11.538Z"
+  },
+  "BATCH-359LT": {
+    "batchId": "BATCH-359LT",
+    "jobTitle": "Node Developer",
+    "duration": 15,
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "limit": 5,
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "candidatesCount": 1,
+    "candidates": [
+      "INT-Q18TJ"
+    ],
+    "createdAt": "2026-07-20T03:34:20.878Z",
+    "updatedAt": "2026-07-20T03:34:20.878Z"
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "INT-ALICE": {
+    "interviewId": "INT-ALICE",
+    "candidateName": "Alice Cooper",
+    "candidateEmail": "alice@gmail.com",
+    "jobTitle": "App Developer",
+    "resumeText": "React native developer with 3 years experience. Skilled in Expo, Redux, Reanimated.",
+    "resumeSkillsSummary": "**Profile Summary:**  \nAlice Cooper is a React Native developer with 3 years of experience in mobile app development. She is proficient in frameworks and tools such as Expo, Redux, and Reanimated, showcasing her expertise in building dynamic and responsive applications. Alice specializes in leveraging React Native and its ecosystem to deliver efficient, cross-platform solutions.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you walk us through a time when you optimized the performance of a React Native app? What tools or techniques did you use, and what was the outcome?",
+      "Describe a challenging bug you encountered while working with Redux for state management in a project. How did you identify and resolve it?",
+      "How do you approach integrating third-party libraries, like Reanimated or Expo, into your React Native projects? Can you give an example of a specific integration you’ve done and the challenges you faced?",
+      "Tell us about a situation where you had to balance delivering a feature quickly with ensuring high code quality in a mobile app project. How did you handle it?",
+      "If you were tasked with developing a new feature that required a high degree of animation and responsiveness, how would you leverage React Native's ecosystem to achieve this?"
+    ],
+    "currentQuestionIndex": 4,
+    "responses": [
+      "I have built several React Native apps using Expo Router and animated UI elements.",
+      "My strength is designing fluid interfaces and managing smooth cross-platform performance.",
+      "I built an offline sync engine that handles networking glitches gracefully.",
+      "I want to work with you because you are developing cutting-edge AI features for mobile.",
+      "In 5 years, I expect to be a lead mobile architect defining core development guidelines."
+    ],
+    "scores": [
+      {
+        "relevance": 5,
+        "clarity": 4,
+        "completeness": 3,
+        "feedback": "The response is somewhat relevant as it mentions React Native, but it lacks specific details about optimizing performance, which was the core of the question. Clarity is low because the answer is vague and does not explain what 'animated UI elements' or 'Expo Router' contribute to optimization. The response is incomplete as it does not describe any tools, techniques, or outcomes related to performance improvement. Providing a detailed example of an optimization task, tools like 'React DevTools' or 'Profiler,' and measurable outcomes would significantly enhance the answer."
+      },
+      {
+        "relevance": 2,
+        "clarity": 5,
+        "completeness": 2,
+        "feedback": "The response is not relevant to the question, which specifically asks about a challenging bug encountered in Redux. While the candidate mentions strengths, they do not address the core aspects of identifying or resolving a Redux-related issue. The response is somewhat clear but lacks details and focus. To improve, the candidate should provide a specific example of a Redux bug, describe how it was identified, and explain the steps taken to resolve it."
+      },
+      {
+        "relevance": 3,
+        "clarity": 5,
+        "completeness": 2,
+        "feedback": "The candidate's response does not address the question about integrating third-party libraries in React Native projects. While the mention of an offline sync engine demonstrates technical work, it is unrelated to the topic. The answer lacks specific examples of library integration, challenges, or approaches. Future responses should directly address the question, provide context, and include relevant examples to improve relevance and completeness."
+      },
+      {
+        "relevance": 2,
+        "clarity": 4,
+        "completeness": 2,
+        "feedback": "The response is largely irrelevant to the question as it does not address the asked scenario about balancing speed and quality in a mobile app project. While the candidate's statement is somewhat clear in expressing their interest in the company, it lacks any detail or examples related to the requested context. To improve, the candidate should focus on sharing a specific instance that demonstrates their ability to manage trade-offs between speed and quality, offering insights into their decision-making process and actions taken."
+      },
+      {
+        "relevance": 2,
+        "clarity": 5,
+        "completeness": 1,
+        "feedback": "The response does not address the question, which was specifically about leveraging React Native's ecosystem for animation and responsiveness. While the answer is somewhat clear about the candidate's long-term goals, it is irrelevant to the query and lacks any actionable or technical details about the topic. Ensure future responses directly address the question and provide specific insights or strategies."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-TEST-88",
+    "deadline": "2026-08-15",
+    "passThreshold": 7.2,
+    "status": "rejected",
+    "updatedAt": "2026-07-19T17:39:37.839Z",
+    "overallFeedback": "**Final Interview Feedback Report**  \n**Candidate: Alice Cooper**  \n**Position: App Developer**\n\n---\n\n### **1. Core Strengths**  \n- **Technical Knowledge:** Alice demonstrates familiarity with React Native and related concepts, such as Expo Router, animated UI elements, and offline sync engines. These indicate a general understanding of mobile app development.  \n- **Interest in Innovation:** The candidate expressed enthusiasm for cutting-edge AI features, showing curiosity and alignment with the company’s mission in advancing technology.  \n- **Long-term Vision:** Alice articulated clear career goals, aiming to grow into a leadership position as a mobile architect. This suggests ambition and a desire for professional development.\n\n---\n\n### **2. Areas for Development**  \n- **Technical Depth and Specificity:** While Alice mentioned relevant tools and technologies, her answers lacked depth, specificity, and actionable examples. For instance, the absence of detailed explanations regarding optimization techniques or Redux bug resolution hindered her ability to showcase her technical problem-solving skills.  \n- **Question Relevance:** Several responses did not directly address the interview questions (e.g., Q2, Q3, Q4, Q5). Instead, the candidate provided unrelated or vague answers, which made it challenging to assess her competency in specific areas. She would benefit from honing her ability to provide concise, targeted responses with clear examples and outcomes.  \n- **Communication Skills:** Although Alice’s answers were clear in language, they often lacked structure and focus. Improving her ability to articulate technical concepts in a logical and detailed manner would enhance her overall communication during interviews and technical discussions.  \n- **Adaptability to Role Requirements:** Alice’s responses suggest a preference for frontend/UI aspects of mobile development. However, the role of App Developer requires a well-rounded skill set, including backend integration, state management expertise, and performance optimization—areas where Alice’s answers were notably weak.\n\n---\n\n### **3. Overall Hiring Recommendation**  \nBased on Alice’s interview performance, we recommend **not proceeding with the hiring process** at this time. While Alice exhibits ambition and an interest in mobile app development, her responses lacked the technical depth and specificity required for this role. The inability to address key questions regarding optimization, state management, and library integration raises concerns about her readiness to handle the technical complexity and problem-solving demands of this position.  \n\nTo reconsider her candidacy in the future, Alice should focus on:  \n1. Strengthening her technical expertise in performance optimization, Redux, and third-party library integration.  \n2. Preparing structured, detailed answers that directly address interview questions.  \n3. Expanding her breadth of knowledge to include backend processes and troubleshooting complex issues relevant to app development.  \n\nWhile Alice has potential and clear long-term aspirations, she would benefit from additional experience and preparation before taking on a role of this scope.",
+    "overallScore": 3.1,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-ALICE.pdf"
+  },
+  "INT-BOB": {
+    "interviewId": "INT-BOB",
+    "candidateName": "Bob Dylan",
+    "candidateEmail": "bob@gmail.com",
+    "jobTitle": "App Developer",
+    "resumeText": "Backend engineer with 10 years experience. Skilled in Java, Spring Boot, AWS, Kubernetes.",
+    "resumeSkillsSummary": "**Profile Summary:**\n\nBob Dylan is an experienced Backend Engineer with 10 years of expertise in application development. His core technical skills include proficiency in **Java**, the **Spring Boot** framework, and cloud technologies such as **AWS**. He is well-versed in container orchestration platforms, specifically **Kubernetes**, showcasing his ability to build, deploy, and manage scalable backend systems.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you walk me through how you would design and implement a scalable backend system for a mobile app using Java and Spring Boot, ensuring high availability and performance?",
+      "Describe a time when you successfully used Kubernetes to manage and scale containerized applications. What challenges did you face, and how did you overcome them?",
+      "How would you leverage AWS services to optimize the performance and cost-efficiency of a backend application for a mobile app?",
+      "Tell me about a situation where you had to troubleshoot a critical issue in an application you developed. How did you identify and resolve the problem under pressure?",
+      "If you were tasked with adding a new feature to an existing app while ensuring minimal disruption to users, how would you approach the development and deployment process?"
+    ],
+    "currentQuestionIndex": 0,
+    "responses": [],
+    "scores": [],
+    "stage": "interviewing",
+    "batchId": "BATCH-TEST-88",
+    "deadline": "2026-08-15",
+    "passThreshold": 7.2,
+    "status": "invited",
+    "updatedAt": "2026-07-19T17:39:14.711Z"
+  },
+  "INT-4430N": {
+    "interviewId": "INT-4430N",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabee9900@gmail.com",
+    "jobTitle": "web dev",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**\n\nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in mobile and web application development. His core technical skills include expertise in **React, React Native, Node.js, Express**, and **cloud databases**. Zabee has significant experience integrating **LangGraph** and **OpenAI APIs**, showcasing his ability to work with advanced AI-driven technologies. Skilled in both front-end and back-end development, he demonstrates strong proficiency in building scalable and dynamic applications.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you describe a challenging web application project you worked on using React and Node.js, and how you addressed any performance or scalability issues?",
+      "How would you design and implement an API integration with OpenAI's GPT models to enhance a web application's functionality?",
+      "Tell me about a time when you had to troubleshoot a critical issue in a React Native app. What steps did you take to resolve it and prevent future occurrences?",
+      "Imagine you need to optimize database queries for a cloud-based application experiencing slow performance. How would you approach identifying and resolving the bottlenecks?",
+      "How do you prioritize and manage competing deadlines when working on both front-end and back-end tasks in a full stack development role?"
+    ],
+    "currentQuestionIndex": 0,
+    "responses": [],
+    "scores": [],
+    "stage": "interviewing",
+    "batchId": "BATCH-PV7E1",
+    "deadline": "2026-09-09",
+    "passThreshold": 7,
+    "status": "invited",
+    "updatedAt": "2026-07-19T18:00:13.925Z"
+  },
+  "INT-LSG1X": {
+    "interviewId": "INT-LSG1X",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabigujjar9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**\n\nZabee Ullah is a Senior Full Stack Engineer with 6 years of professional experience specializing in mobile and web application development. He demonstrates expertise in **Node.js**, **Express**, **React**, and **React Native**, with strong skills in backend and frontend development. Zabee has significant experience working with **cloud databases** and integrating APIs, including **LangGraph** and **OpenAI APIs**. His technical proficiency and hands-on experience make him a versatile Node Developer capable of delivering robust and scalable solutions.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you walk us through how you have previously integrated LangGraph or OpenAI APIs into a Node.js application? What challenges did you encounter, and how did you resolve them?",
+      "Describe your experience with building RESTful APIs using Express. How do you ensure scalability and performance in your API design?",
+      "Have you worked with React Native and Expo in conjunction with a Node.js backend? If so, can you describe a project where you used these technologies together effectively?",
+      "When working with cloud databases in a Node.js environment, what strategies do you use to optimize database queries and ensure data security?",
+      "How would you design a full-stack application that uses Node.js, React, and OpenAI APIs for a conversational AI feature? Walk us through the architecture and key implementation steps."
+    ],
+    "currentQuestionIndex": 0,
+    "responses": [],
+    "scores": [],
+    "stage": "interviewing",
+    "batchId": "BATCH-ME9SC",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "invited",
+    "updatedAt": "2026-07-19T18:09:07.415Z"
+  },
+  "INT-FDMK3": {
+    "interviewId": "INT-FDMK3",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabee9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**\n\nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in building mobile and web applications. His core technical skills include strong expertise in **React**, **React Native**, **Node.js**, and **Express**. He has significant experience working with **cloud databases** and integrating APIs, particularly **LangGraph** and **OpenAI APIs**. Zabee demonstrates a solid understanding of front-end and back-end development, making him an adept Node Developer.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you explain how you have integrated OpenAI APIs into an application in the past, and what challenges you faced during the process?",
+      "Can you describe your experience with LangGraph, including any specific use cases or challenges you encountered while implementing it in a project?",
+      "Can you walk me through your experience with building and deploying a full-stack application using Node.js and Express, detailing how you handled authentication and database integration?",
+      "Can you discuss your experience with React Native and Expo, specifically any challenges you faced when building or deploying a mobile application and how you resolved them?",
+      "Can you explain how you would optimize the performance of a Node.js application, particularly when dealing with high-concurrency scenarios?"
+    ],
+    "currentQuestionIndex": 4,
+    "responses": [
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded."
+    ],
+    "scores": [
+      {
+        "relevance": 6,
+        "clarity": 6,
+        "completeness": 6,
+        "score": 6,
+        "feedback": "No response was provided, so the question was not answered. The candidate missed an opportunity to demonstrate their knowledge of integrating OpenAI APIs, discuss technical challenges, or showcase practical experience. In future responses, they should provide a detailed explanation of their approach, tools used, and how they overcame any obstacles."
+      },
+      {
+        "relevance": 6,
+        "clarity": 6,
+        "completeness": 6,
+        "score": 6,
+        "feedback": "The candidate did not provide an answer, resulting in no assessment of their experience or knowledge with LangGraph. Without a response, it is impossible to evaluate their technical accuracy, depth, or ability to address the question. A detailed and specific answer is required to demonstrate competence in this area."
+      },
+      {
+        "relevance": 6,
+        "clarity": 6,
+        "completeness": 6,
+        "score": 6,
+        "feedback": "The candidate did not provide a response to the question. Without any input, their experience, technical understanding, and ability to handle authentication or database integration cannot be evaluated. A detailed, structured answer is needed to assess their qualifications effectively."
+      },
+      {
+        "relevance": 6,
+        "clarity": 6,
+        "completeness": 6,
+        "score": 6,
+        "feedback": "The candidate did not provide an answer, leaving the question completely unaddressed. This demonstrates no engagement or insight into React Native, Expo, or relevant challenges and solutions."
+      },
+      {
+        "relevance": 1,
+        "clarity": 1,
+        "completeness": 1,
+        "score": 1,
+        "feedback": "The candidate did not provide a response, leaving the question entirely unanswered. To demonstrate expertise, they should have discussed strategies like leveraging asynchronous programming, using load balancing, optimizing database queries, implementing caching mechanisms, or tuning the Node.js event loop for high concurrency scenarios."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-VN6K4",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "rejected",
+    "updatedAt": "2026-07-19T19:27:34.833Z",
+    "overallFeedback": "### Final Interview Feedback Report\n\n#### Candidate: Zabee Ullah  \n#### Job Title: Node Developer  \n\n---\n\n### **1. Core Strengths**  \nBased on this interview, there is no sufficient evidence to evaluate core strengths due to the lack of responses to all technical questions. While the candidate received default scores for relevance, clarity, and completeness, these do not reflect actual engagement or demonstrated expertise.  \n\n---\n\n### **2. Areas for Development**  \n1. **Technical Knowledge Demonstration**:  \n   - The candidate failed to provide answers to any of the technical questions asked, missing the opportunity to showcase their skills, experience, and problem-solving abilities.  \n   - Specific gaps include practical understanding of OpenAI API integration, LangGraph, React Native with Expo, full-stack application development using Node.js, and performance optimization in high-concurrency scenarios.  \n\n2. **Communication Skills**:  \n   - No responses were provided, which raises concerns about the candidate’s ability to articulate their technical experience in an interview setting.  \n   - Clear, concise, and structured communication is essential for collaborative roles such as a Node Developer, where explaining technical concepts to peers or stakeholders is a frequent requirement.  \n\n3. **Engagement & Preparedness**:  \n   - The absence of responses indicates a lack of preparation or engagement during the interview process.  \n   - The candidate needs to allocate time to review job-specific skills and prepare detailed examples from prior experience to perform effectively in future technical interviews.  \n\n---\n\n### **3. Overall Hiring Recommendation**  \n**Recommendation: Do Not Proceed**  \n\nThe candidate's failure to provide responses to any of the technical questions significantly limits our ability to assess their aptitude, experience, and suitability for the Node Developer role. While the lack of engagement could be due to various factors, the inability to demonstrate core technical skills or communicate effectively raises concerns about their readiness for this position.  \n\nIt is recommended that the candidate take time to thoroughly prepare for future interviews by reviewing technical concepts, practicing problem-solving scenarios, and articulating past project experiences in a structured and clear manner.",
+    "overallScore": 5,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-FDMK3.pdf"
+  },
+  "INT-7WFE9": {
+    "interviewId": "INT-7WFE9",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabigujjar9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**  \nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in mobile and web application development. Core technical skills include **Node.js**, **Express**, **React**, and **React Native**. Proficient in working with **cloud databases** and has expertise in API integration, particularly with **LangGraph** and **OpenAI APIs**. Adept at delivering scalable and high-performance applications, Zabee demonstrates strong problem-solving capabilities and proficiency in modern JavaScript frameworks and backend development.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you walk us through the process of integrating OpenAI APIs into a Node.js application? What challenges did you face and how did you resolve them?",
+      "Can you provide a specific example of a project where you used LangGraph in a Node.js application, and explain how you utilized it to solve a particular problem?",
+      "Can you explain your experience with React Native and Expo, and describe a project where you leveraged these tools to build and deploy a mobile application?",
+      "What is your approach to designing a scalable and secure Express.js application, and can you provide an example of how you implemented middleware to enhance security or performance?",
+      "How do you approach debugging and testing in full-stack applications that involve both React Native on the frontend and Node.js on the backend?"
+    ],
+    "currentQuestionIndex": 1,
+    "responses": [
+      "Achcha vedar time",
+      "No response recorded.",
+      "No response recorded.",
+      null,
+      "No response recorded."
+    ],
+    "scores": [
+      {
+        "relevance": 1,
+        "clarity": 1,
+        "completeness": 1,
+        "feedback": "The response is entirely irrelevant to the question, lacks any clarity, and does not provide any detail or structure. To improve, the candidate should address the specific query about integrating OpenAI APIs into a Node.js application, including steps taken, challenges encountered, and solutions implemented."
+      },
+      {
+        "relevance": 1,
+        "clarity": 1,
+        "completeness": 1,
+        "feedback": "The candidate did not provide a response, which makes it impossible to assess their understanding or experience with LangGraph in a Node.js application. To improve, the candidate should provide a specific example or at least outline a hypothetical scenario where they could demonstrate their knowledge and problem-solving skills using LangGraph."
+      },
+      {
+        "relevance": 5,
+        "clarity": 5,
+        "completeness": 5,
+        "feedback": "The candidate did not provide a response to the question. To improve, ensure you address the question directly by sharing specific experiences with React Native and Expo, detailing both the project context and challenges faced. Providing concrete examples will demonstrate your expertise and problem-solving skills effectively."
+      },
+      null,
+      {
+        "relevance": 5,
+        "clarity": 5,
+        "completeness": 5,
+        "feedback": "The candidate did not provide a response to the question. To improve, ensure to answer the question directly, outlining specific debugging and testing strategies for both the React Native frontend and Node.js backend, as well as discussing tools and best practices you use in such scenarios."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-FH8U1",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "ongoing",
+    "updatedAt": "2026-07-19T19:03:35.655Z",
+    "tabSwitchCount": 8,
+    "overallFeedback": "Failed to generate comprehensive feedback report. Candidate completed all stages successfully.",
+    "overallScore": 7.5,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-7WFE9.pdf"
+  },
+  "INT-BDQLT": {
+    "interviewId": "INT-BDQLT",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabigujjar9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**\n\nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in mobile and web application development. He has strong expertise in **React**, **React Native**, **Node.js**, and **Express**, with proven experience in building scalable applications. Zabee is highly skilled in working with **cloud databases** and has deep integration experience with **LangGraph** and **OpenAI APIs**. His technical background demonstrates proficiency in modern frameworks and APIs, making him well-suited for roles focused on full-stack development and AI-powered applications.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you walk us through the process of integrating OpenAI APIs into a Node.js application, and discuss any challenges you faced during implementation?",
+      "Can you explain how you have utilized LangGraph in one of your recent projects and describe the specific use case it addressed?",
+      "Can you describe a situation where you used React Native and Expo to build a mobile application, and explain how you managed the deployment process for both iOS and Android platforms?",
+      "Can you explain how you approach error handling and debugging in a Node.js application, especially when working with asynchronous operations?",
+      "Can you discuss how you ensure scalability and performance optimization in a Node.js application, and provide a specific example of techniques or tools you've used to achieve this?"
+    ],
+    "currentQuestionIndex": 4,
+    "responses": [
+      "can you please repeat",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded."
+    ],
+    "scores": [
+      {
+        "relevance": 2,
+        "clarity": 2,
+        "completeness": 1,
+        "score": 1.67,
+        "feedback": "The candidate did not address the question and requested repetition instead. This demonstrates a lack of engagement, technical understanding, or preparation for the topic. Future responses should directly address the question and provide detailed insights into the integration process, challenges, and solutions."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-IQ868",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "rejected",
+    "emailSent": true,
+    "updatedAt": "2026-07-19T20:36:51.420Z",
+    "tabSwitchCount": 8,
+    "overallFeedback": "### Final Interview Feedback Report  \n**Candidate Name:** Zabee Ullah  \n**Job Title:** Node Developer  \n\n---\n\n### **1. Core Strengths**  \n- **Punctuality:** The candidate was punctual and attended the interview on time, which reflects professionalism.  \n- **Politeness:** Despite limited responses, the candidate maintained a polite demeanor during the interview.  \n\n---\n\n### **2. Areas for Development**  \n- **Technical Knowledge:** The candidate demonstrated insufficient understanding of key technical concepts relevant to the role, such as integrating OpenAI APIs, utilizing LangGraph, deploying React Native applications, error handling in Node.js, and scalability optimization techniques. A successful Node Developer should be proficient in these areas.  \n- **Preparation:** Lack of preparation was evident, as the candidate did not provide responses to most technical questions. This raises concerns about their readiness for the interview and their ability to engage with complex technical discussions.  \n- **Communication Skills:** The responses were incomplete or absent for all key questions, which highlights a significant gap in articulating technical knowledge and experiences effectively.  \n- **Engagement:** Requesting the repetition of a question without providing any follow-up response suggests a lack of focus or familiarity with the subject matter.  \n\n---\n\n### **3. Overall Hiring Recommendation**  \n**Recommendation:** Not Recommended for Hire  \n\n**Reasoning:**  \nThe candidate did not demonstrate the technical proficiency, problem-solving capabilities, or communication skills required for the Node Developer role. Additionally, the lack of responses to several key technical questions raises concerns about their ability to perform effectively in a fast-paced, development-focused environment.  \n\n**Next Steps:**  \nIt is recommended to explore other candidates for this position who exhibit a stronger command of Node.js development, API integrations, and project deployment processes. If the candidate is to be considered for future opportunities, it is essential that they invest time in upskilling, preparing for interviews, and refining their technical expertise.  \n\n---  \n**Evaluator:** [Your Name]  \n**Date:** [Insert Date]  \n",
+    "overallScore": 0.3,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-BDQLT.pdf"
+  },
+  "INT-F0M50": {
+    "interviewId": "INT-F0M50",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabigujjar9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**  \nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in web and mobile application development. He demonstrates expertise in **Node.js**, **Express**, **React**, and **React Native**, with strong proficiency in building scalable applications. Zabee has deep experience working with **cloud databases** and integrating advanced APIs, including **LangGraph** and **OpenAI APIs**. His skill set positions him as a highly capable Node Developer with a focus on modern frameworks and API-driven solutions.",
+    "interviewDuration": 15,
+    "questions": [
+      "How would you design and implement a scalable API using Node.js and Express for integrating with LangGraph, ensuring optimal performance and security?",
+      "Can you explain how you would integrate OpenAI's API into a Node.js application and handle rate limiting or token management effectively?",
+      "Can you describe your experience working with React Native and Expo, and share a specific project where you utilized these technologies to solve a challenging problem?",
+      "What strategies would you use to optimize the performance of a Node.js application that handles high concurrency, and can you provide an example of a time you implemented such optimizations?",
+      "How would you approach debugging and monitoring a Node.js application in production, and can you share a specific instance where you identified and resolved a critical issue?"
+    ],
+    "currentQuestionIndex": 4,
+    "responses": [
+      "No response recorded.",
+      "no I don't have any answer of it",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded."
+    ],
+    "scores": [
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 1,
+        "clarity": 1,
+        "completeness": 1,
+        "score": 1,
+        "feedback": "The candidate did not provide any answer to the question, demonstrating no understanding of integrating OpenAI's API into a Node.js application or handling rate limiting and token management. To improve, the candidate should research how to use OpenAI's SDK or HTTP API, implement rate limiting with libraries like 'bottleneck' or custom logic, and handle token management securely using environment variables or secret management tools."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-0PR4W",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "rejected",
+    "emailSent": true,
+    "updatedAt": "2026-07-19T20:59:41.081Z",
+    "overallFeedback": "**Final Interview Feedback Report: Zabee Ullah – Node Developer**\n\n---\n\n### **1. Core Strengths**\nAt this time, no core technical strengths could be identified due to the lack of substantive responses to all interview questions. The candidate did not provide relevant or complete answers to any of the technical or experiential questions posed. As a result, their expertise, problem-solving ability, and practical knowledge of Node.js, React Native, API integration, and performance optimization remain unassessed.\n\n---\n\n### **2. Areas for Development**\nZabee Ullah would need to focus on the following areas to strengthen their candidacy for a Node Developer role:\n\n1. **Technical Knowledge:**\n   - Research and gain hands-on experience with Node.js and Express development, including designing scalable APIs and addressing performance and security considerations.\n   - Acquire working knowledge of integrating APIs, such as OpenAI’s API, and familiarize themselves with rate-limiting techniques, token management, and error handling best practices.\n   - Build foundational skills in React Native and Expo to demonstrate an ability to develop and optimize mobile applications.\n\n2. **Problem-Solving and Debugging:**\n   - Develop an understanding of performance optimization strategies for high-concurrency applications in Node.js.\n   - Learn debugging and monitoring techniques for production environments using tools like PM2, New Relic, or APM.\n\n3. **Interview Preparation:**\n   - Prepare for interviews by practicing technical questions, reviewing relevant documentation, and conducting mock interviews to build confidence and clarity in responses.\n   - Focus on providing structured, detailed answers with examples to demonstrate technical and experiential knowledge.\n\n---\n\n### **3. Overall Hiring Recommendation**\n**Recommendation: Not Recommended for Hire**\n\nThe candidate was unable to provide answers to any of the technical or experiential questions posed during the interview. This lack of response raises significant concerns about their readiness for the Node Developer role, which requires a solid foundation in backend development, API integration, performance optimization, and debugging. While Zabee Ullah may have potential, they lack the demonstrated knowledge, skills, and preparation necessary for this position.\n\n---\n\n### **4. Behavioral Integrity**\n- **Tab Switch Count:** The candidate did not switch tabs during the interview, which suggests they remained present and focused on the session.\n- **Visual Proctoring:** No visual proctoring data was available, and therefore no insights can be drawn regarding attention or engagement.\n- **Behavioral Concerns:** No integrity violations or concerning behaviors were detected during the interview.\n\n**Summary of Behavioral Integrity:** While there are no indications of dishonest behavior, the candidate’s lack of participation and failure to provide responses suggest a lack of preparation rather than behavioral misconduct.\n\n---\n\n### **Final Notes**\nGiven the current assessment, Zabee Ullah would benefit from further technical training and interview preparation before pursuing opportunities for a Node Developer role. If they are serious about this career path, they should invest time in building relevant skills, gaining project-based experience, and practicing communication of their knowledge effectively during interviews. At this time, we cannot recommend them for hire.",
+    "overallScore": 0.2,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-F0M50.pdf"
+  },
+  "INT-Q18TJ": {
+    "interviewId": "INT-Q18TJ",
+    "candidateName": "Zabee Ullah",
+    "candidateEmail": "zabigujjar9900@gmail.com",
+    "jobTitle": "Node Developer",
+    "jobDescription": "Looking for a Node.js full-stack developer with experience in Express, LangGraph, and OpenAI integration. Experience with React Native and Expo is a strong plus.",
+    "resumeText": "Senior Full Stack Engineer with 6 years of experience building mobile and web applications. Highly proficient in React, React Native, Node.js, Express, and cloud databases. Deep experience integrating LangGraph and OpenAI APIs.",
+    "resumeSkillsSummary": "**Profile Summary:**  \nZabee Ullah is a Senior Full Stack Engineer with 6 years of experience specializing in mobile and web application development. Proficient in **Node.js**, **Express**, **React**, and **React Native**, he brings expertise in building scalable solutions. Zabee has strong skills in working with **cloud databases** and integrating APIs, with notable experience in **LangGraph** and **OpenAI APIs**. His technical background and hands-on approach make him well-suited for Node.js development roles.",
+    "interviewDuration": 15,
+    "questions": [
+      "Can you explain how you would structure a Node.js application using Express for scalability and maintainability?",
+      "Can you walk me through a real-world scenario where you integrated OpenAI APIs into a Node.js application, explaining the challenges you faced and how you overcame them?",
+      "How have you utilized LangGraph in a Node.js application, and can you provide a specific example of how it improved the application's functionality or performance?",
+      "Can you describe your experience with React Native and Expo, and provide an example of a project where you utilized these technologies to deliver a mobile application?",
+      "What strategies would you use to optimize the performance of a Node.js application, particularly when handling a high volume of API requests?"
+    ],
+    "currentQuestionIndex": 4,
+    "responses": [
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded.",
+      "No response recorded."
+    ],
+    "scores": [
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      },
+      {
+        "relevance": 0,
+        "clarity": 0,
+        "completeness": 0,
+        "score": 0,
+        "feedback": "No response was recorded for this question."
+      }
+    ],
+    "stage": "completed",
+    "batchId": "BATCH-359LT",
+    "deadline": "2026-08-30",
+    "passThreshold": 7.5,
+    "status": "rejected",
+    "emailSent": true,
+    "updatedAt": "2026-07-20T03:36:38.343Z",
+    "overallFeedback": "**Final Interview Feedback Report**  \n**Candidate Name:** Zabee Ullah  \n**Position:** Node Developer  \n\n---\n\n### 1) **Core Strengths**  \n- **Technical Proficiency:** Unable to assess due to a lack of responses across all questions.  \n- **Problem-Solving Ability:** No evidence provided to evaluate this skill.  \n- **Communication Skills:** Insufficient data to determine communication clarity or ability to articulate technical concepts.  \n\n---\n\n### 2) **Areas for Development**  \n- **Engagement in the Interview Process:** The candidate did not provide any responses to the technical questions, making it challenging to evaluate their expertise or fit for the role. Engagement during interviews is critical for assessing both technical and cultural alignment.  \n- **Technical Depth and Breadth:** Without responses, the candidate's technical knowledge in Node.js, Express, API integration, LangGraph, React Native, and performance optimization remains unverified.  \n- **Preparation:** The absence of any responses raises concerns about the candidate's preparation and commitment to the interview process.  \n\n---\n\n### 3) **Overall Hiring Recommendation**  \n**Not Recommended for Hire**  \nDue to the lack of engagement and absence of responses, we were unable to evaluate the candidate's qualifications, technical skills, or behavioral alignment with the role. The inability to participate actively in the interview is a significant red flag, particularly for a technical role requiring problem-solving and communication skills.  \n\n---\n\n### 4) **Behavioral Integrity**  \n- **Proctoring Insights:**  \n  - **Tab Switching:** No tab-switching activity was detected, which suggests the candidate was focused on the interview screen.  \n  - **Visual Proctoring:** No visual proctoring data was available, leaving behavioral assessment incomplete.  \n  - **Behavioral Severity:** UNKNOWN, as no explicit integrity concerns were flagged during the session.  \n\n- **Integrity Concerns:** The absence of engagement in answering any questions makes it unclear whether the candidate had difficulty with the platform, experienced technical issues, or was simply unprepared. While no direct evidence of malpractice is available, the lack of participation is concerning.  \n\n---\n\n### Summary  \nThe candidate’s silence during the interview process, combined with the inability to assess any technical or behavioral competencies, precludes them from moving forward in the hiring process. While no integrity concerns were explicitly identified, the lack of engagement raises significant doubts about the candidate’s readiness and suitability for the role.  \n\n",
+    "overallScore": 0,
+    "pdfReportPath": "C:\\Users\\zabiu\\Downloads\\ai-interviewer\\backend\\reports\\report_INT-Q18TJ.pdf"
+  }
+}
